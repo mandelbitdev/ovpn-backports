@@ -1,0 +1,17 @@
+.cache/
+.tmp_versions/
+.clangd
+.clang-format
+.Module.symvers.cmd
+.modules.order.cmd
+Module.symvers
+modules.order
+config
+check-kernel-config.sh
+compile_commands.json
+
+kernel/
+net-next/
+drivers/
+include/
+ovpn.cfg
